@@ -1,0 +1,27 @@
+.text-area{
+    color: black;
+    background-color: white;
+    padding: 0.3rem;
+    border-radius: 1rem;
+    border: 1px solid #ccc;
+    
+
+}
+.send{
+    padding: 0.2rem;
+    border-radius: 5%;
+    text-decoration: none;
+    border-style: none;
+}
+.a1{
+    padding: 1rem;
+    background-color: aqua;
+    border-radius: 1rem;
+}
+.hover{
+    background-color: beige;
+
+}
+.hover:hover{
+    background-color: white;
+}
