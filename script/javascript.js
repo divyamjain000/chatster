@@ -11,7 +11,7 @@ let str=b.value;
 // let li=document.createElement("li");
 function myFunction(event){
     
-    // li.innerHTML=b.value;
+    li.innerHTML=b.value;
     // myList.appendChild(li);
     // if(b.value!=null){
         // str=str+b.value+"<br>\n";
@@ -30,7 +30,7 @@ function myFunction(event){
         }
         // window.prompt(b.value);
     // }
-    
+      
     
     
     
